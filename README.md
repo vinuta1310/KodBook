@@ -115,7 +115,7 @@ mvn spring-boot:run
 
 ## 🧩 Learning Outcome
 
-- Through this project, I gained hands-on experience in:
+Through this project, I gained hands-on experience in:
 - Building RESTful APIs using Spring Boot
 - Implementing authentication and authorization
 - Designing relational databases with MySQL
